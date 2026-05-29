@@ -1,0 +1,54 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Build outputs
+[Bb]uild/
+[Bb]uilds/
+[Bb]uilds_*/
+*.exe
+*.apk
+*.aab
+
+# Visual Studio / Rider / IDE
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Python virtual environment
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# ML-Agents training outputs
+results/
+summaries/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+# Local backups / archives
+*.zip
+BrokenOnnxBackup/
+*.slnx
